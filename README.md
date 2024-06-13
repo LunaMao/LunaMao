@@ -2,7 +2,7 @@
 - 👀 I’m interested in polarimetric image processing ....
 - 🌱 I’m currently working on polarimetric image processing...
 - 💞️ I’m looking to collaborate on 3d recontruction and super resolution based on polarized/ microscopic images.
-- 📫 How to reach me : 1701624@uab.cat/+34 600678785
+- 📫 How to reach me : yuxuan.mao@autonoma.cat /+34 600678785
 - 😄 Pronouns: INFJ 
 - ⚡ Fun fact: 🐱
 
